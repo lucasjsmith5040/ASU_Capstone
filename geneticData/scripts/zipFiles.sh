@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --partition=general
-#SBATCH --job-name=compress_fastq
-#SBATCH --output=compress_fastq_%j.out
-#SBATCH --error=compress_fastq_%j.err
+#SBATCH --job-name=compress_vcf
+#SBATCH --output=logs/zipFiles/compress_vcf_%j.out
+#SBATCH --error=logs/zipFiles/compress_vcf_%j.err
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 #SBATCH --time=24:00:00
@@ -13,8 +13,18 @@
 #Load pigz
 module load pigz-2.6-gcc-11.2.0
 
-#Navigate to directory
-cd /scratch/dbihnam/lsc585/turtleProject/rawData
+#Check for input arguments
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <path/to/you/files> <fileExtension_NO_DOT>"
+    exit 1
+fi
 
-#Compress all FASTQ files
-pigz -p 16 *.fastq
+#Assign file location and extension variables
+DIR=$1
+EXT=$2
+
+#Navigate to user-specified directory
+cd "$DIR" || exit 1
+
+#Zip files
+pigz -p 16 *.$EXT
