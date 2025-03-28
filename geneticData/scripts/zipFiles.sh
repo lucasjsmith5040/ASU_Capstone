@@ -13,6 +13,9 @@
 #Load pigz
 module load pigz-2.6-gcc-11.2.0
 
+#Load bgzip
+module load htslib-1.14-gcc-11.2.0
+
 #Check for input arguments
 if [ "$#" -ne 2 ]; then
     echo "Usage: $0 <path/to/you/files> <fileExtension_NO_DOT>"
@@ -26,5 +29,18 @@ EXT=$2
 #Navigate to user-specified directory
 cd "$DIR" || exit 1
 
-#Zip files
-pigz -p 16 *.$EXT
+#Zip files checking for ext type
+if [ "$EXT" == "vcf" ]; then
+  #Fix my mistake of zipping the vcfs with pigz first lol
+  for file in *.$EXT.gz; do
+      if [ -f "$file" ]; then
+        pigz -d "$file"
+      fi
+  done
+  #Zip vcf with bgzip
+  for file in *.$EXT; do
+    bgzip -f "$file"
+  done
+else
+  pigz -p 16 *.$EXT
+fi
