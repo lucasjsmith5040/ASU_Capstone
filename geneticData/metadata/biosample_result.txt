@@ -1,0 +1,3503 @@
+1: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577435; Sample name: YT14; SRA: SRS22622667
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2004"
+    /geographic location="Israel: Gdor Nature reserve"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT14"
+Accession: SAMN43577435	ID: 43577435
+
+2: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577434; Sample name: YT20; SRA: SRS22622674
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT20"
+Accession: SAMN43577434	ID: 43577434
+
+3: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577433; Sample name: YT19; SRA: SRS22622673
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT19"
+Accession: SAMN43577433	ID: 43577433
+
+4: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577432; Sample name: YT17; SRA: SRS22622671
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT17"
+Accession: SAMN43577432	ID: 43577432
+
+5: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577431; Sample name: YT12; SRA: SRS22622665
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT12"
+Accession: SAMN43577431	ID: 43577431
+
+6: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577430; Sample name: YT11; SRA: SRS22622664
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT11"
+Accession: SAMN43577430	ID: 43577430
+
+7: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577429; Sample name: YT10; SRA: SRS22622663
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT10"
+Accession: SAMN43577429	ID: 43577429
+
+8: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577428; Sample name: YT09; SRA: SRS22622662
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT09"
+Accession: SAMN43577428	ID: 43577428
+
+9: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577427; Sample name: YT07; SRA: SRS22622660
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT07"
+Accession: SAMN43577427	ID: 43577427
+
+10: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577426; Sample name: YT04; SRA: SRS22622656
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT04"
+Accession: SAMN43577426	ID: 43577426
+
+11: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577425; Sample name: YT02; SRA: SRS22622654
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Giv'at Olga"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT02"
+Accession: SAMN43577425	ID: 43577425
+
+12: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577424; Sample name: YT22; SRA: SRS22622676
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT22"
+Accession: SAMN43577424	ID: 43577424
+
+13: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577423; Sample name: YT21; SRA: SRS22622675
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT21"
+Accession: SAMN43577423	ID: 43577423
+
+14: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577422; Sample name: YT18; SRA: SRS22622672
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT18"
+Accession: SAMN43577422	ID: 43577422
+
+15: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577421; Sample name: YT16; SRA: SRS22622670
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT16"
+Accession: SAMN43577421	ID: 43577421
+
+16: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577420; Sample name: YT15; SRA: SRS22622669
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT15"
+Accession: SAMN43577420	ID: 43577420
+
+17: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577419; Sample name: YT13; SRA: SRS22622666
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT13"
+Accession: SAMN43577419	ID: 43577419
+
+18: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577418; Sample name: YT08; SRA: SRS22622661
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT08"
+Accession: SAMN43577418	ID: 43577418
+
+19: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577417; Sample name: YT06; SRA: SRS22622659
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT06"
+Accession: SAMN43577417	ID: 43577417
+
+20: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577416; Sample name: YT05; SRA: SRS22622658
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT05"
+Accession: SAMN43577416	ID: 43577416
+
+21: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577415; Sample name: YT03; SRA: SRS22622655
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT03"
+Accession: SAMN43577415	ID: 43577415
+
+22: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577414; Sample name: YT01; SRA: SRS22622653
+Organism: Chelonia mydas
+Attributes:
+    /isolate="blood"
+    /development stage="adult"
+    /collection date="2002"
+    /geographic location="Israel: Ashkelon"
+    /sex="not applicable"
+    /tissue="blood"
+    /specimen voucher="CMYT01"
+Accession: SAMN43577414	ID: 43577414
+
+23: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577413; Sample name: 4754; SRA: SRS22622844
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4754"
+Accession: SAMN43577413	ID: 43577413
+
+24: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577412; Sample name: 4753; SRA: SRS22622843
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4753"
+Accession: SAMN43577412	ID: 43577412
+
+25: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577411; Sample name: 4752; SRA: SRS22622842
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4752"
+Accession: SAMN43577411	ID: 43577411
+
+26: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577410; Sample name: 4747; SRA: SRS22622841
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4747"
+Accession: SAMN43577410	ID: 43577410
+
+27: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577409; Sample name: 4738; SRA: SRS22622840
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4738"
+Accession: SAMN43577409	ID: 43577409
+
+28: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577408; Sample name: 4737; SRA: SRS22622839
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4737"
+Accession: SAMN43577408	ID: 43577408
+
+29: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577407; Sample name: 4735; SRA: SRS22622837
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-26"
+    /geographic location="Israel: Nizanim South dunes, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4735"
+Accession: SAMN43577407	ID: 43577407
+
+30: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577406; Sample name: 4693; SRA: SRS22622836
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-10"
+    /geographic location="Israel: Ashdod , Nest #28"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4693"
+Accession: SAMN43577406	ID: 43577406
+
+31: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577405; Sample name: 4685; SRA: SRS22622835
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-29"
+    /geographic location="Israel: Ashkelon Central Shore, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4685"
+Accession: SAMN43577405	ID: 43577405
+
+32: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577404; Sample name: 4683; SRA: SRS22622833
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-08-06"
+    /geographic location="Israel: Nahariyya north, Nest #59"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4683"
+Accession: SAMN43577404	ID: 43577404
+
+33: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577403; Sample name: 4682; SRA: SRS22622834
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-08-06"
+    /geographic location="Israel: Nahariyya north, Nest #59"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4682"
+Accession: SAMN43577403	ID: 43577403
+
+34: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577402; Sample name: 4680; SRA: SRS22622832
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-23"
+    /geographic location="Israel: Nahariyya north, Nest #57"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4680"
+Accession: SAMN43577402	ID: 43577402
+
+35: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577401; Sample name: 4679; SRA: SRS22622831
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-23"
+    /geographic location="Israel: Nahariyya north, Nest #57"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4679"
+Accession: SAMN43577401	ID: 43577401
+
+36: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577400; Sample name: 4677; SRA: SRS22622830
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-01"
+    /geographic location="Israel: Betzet, Nest #44"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4677"
+Accession: SAMN43577400	ID: 43577400
+
+37: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577399; Sample name: 4674; SRA: SRS22622829
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4674"
+Accession: SAMN43577399	ID: 43577399
+
+38: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577398; Sample name: 4673; SRA: SRS22622828
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4673"
+Accession: SAMN43577398	ID: 43577398
+
+39: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577397; Sample name: 4670; SRA: SRS22622827
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4670"
+Accession: SAMN43577397	ID: 43577397
+
+40: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577396; Sample name: 4668; SRA: SRS22622825
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4668"
+Accession: SAMN43577396	ID: 43577396
+
+41: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577395; Sample name: 4667; SRA: SRS22622824
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4667"
+Accession: SAMN43577395	ID: 43577395
+
+42: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577394; Sample name: 4666; SRA: SRS22622823
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4666"
+Accession: SAMN43577394	ID: 43577394
+
+43: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577393; Sample name: 4665; SRA: SRS22622822
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4665"
+Accession: SAMN43577393	ID: 43577393
+
+44: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577392; Sample name: 4664; SRA: SRS22622821
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4664"
+Accession: SAMN43577392	ID: 43577392
+
+45: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577391; Sample name: 4663; SRA: SRS22622820
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4663"
+Accession: SAMN43577391	ID: 43577391
+
+46: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577390; Sample name: 4662; SRA: SRS22622819
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4662"
+Accession: SAMN43577390	ID: 43577390
+
+47: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577389; Sample name: 4661; SRA: SRS22622818
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4661"
+Accession: SAMN43577389	ID: 43577389
+
+48: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577388; Sample name: 4660; SRA: SRS22622817
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4660"
+Accession: SAMN43577388	ID: 43577388
+
+49: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577387; Sample name: 4659; SRA: SRS22622815
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4659"
+Accession: SAMN43577387	ID: 43577387
+
+50: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577386; Sample name: 4657; SRA: SRS22622814
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-21"
+    /geographic location="Israel: Ashkelon North Shore, Nest#1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4657"
+Accession: SAMN43577386	ID: 43577386
+
+
+51: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577385; Sample name: 4656; SRA: SRS22622813
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-22"
+    /geographic location="Israel: Alexander River National Park, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4656"
+Accession: SAMN43577385	ID: 43577385
+
+52: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577384; Sample name: 4655; SRA: SRS22622780
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-22"
+    /geographic location="Israel: Alexander River National Park, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4655"
+Accession: SAMN43577384	ID: 43577384
+
+53: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577383; Sample name: 4654; SRA: SRS22622779
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-22"
+    /geographic location="Israel: Alexander River National Park, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4654"
+Accession: SAMN43577383	ID: 43577383
+
+54: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577382; Sample name: 4653; SRA: SRS22622778
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-22"
+    /geographic location="Israel: Alexander River National Park, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4653"
+Accession: SAMN43577382	ID: 43577382
+
+55: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577381; Sample name: 4652; SRA: SRS22622777
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-22"
+    /geographic location="Israel: Alexander River National Park, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4652"
+Accession: SAMN43577381	ID: 43577381
+
+56: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577380; Sample name: 4644; SRA: SRS22622776
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-22"
+    /geographic location="Israel: Ashkelon dunes, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4644"
+Accession: SAMN43577380	ID: 43577380
+
+57: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577379; Sample name: 4643; SRA: SRS22622775
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-22"
+    /geographic location="Israel: Ashkelon dunes, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4643"
+Accession: SAMN43577379	ID: 43577379
+
+58: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577378; Sample name: 4642; SRA: SRS22622774
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-24"
+    /geographic location="Israel: Ashkelon dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4642"
+Accession: SAMN43577378	ID: 43577378
+
+59: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577377; Sample name: 4639; SRA: SRS22622772
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-24"
+    /geographic location="Israel: Ashkelon dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4639"
+Accession: SAMN43577377	ID: 43577377
+
+60: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577376; Sample name: 4638; SRA: SRS22622771
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-24"
+    /geographic location="Israel: Ashkelon dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4638"
+Accession: SAMN43577376	ID: 43577376
+
+61: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577375; Sample name: 4635; SRA: SRS22622770
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-24"
+    /geographic location="Israel: Ashkelon dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4635"
+Accession: SAMN43577375	ID: 43577375
+
+62: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577374; Sample name: 4634; SRA: SRS22622769
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021"
+    /geographic location="Israel: Gdor nature reserve"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4634"
+Accession: SAMN43577374	ID: 43577374
+
+63: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577373; Sample name: 4633; SRA: SRS22622768
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-31"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #92"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4633"
+Accession: SAMN43577373	ID: 43577373
+
+64: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577372; Sample name: 4630; SRA: SRS22622767
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-21"
+    /geographic location="Israel: Nahal Poleg, Nest #88"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4630"
+Accession: SAMN43577372	ID: 43577372
+
+65: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577371; Sample name: 4628; SRA: SRS22622766
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-07-10"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4628"
+Accession: SAMN43577371	ID: 43577371
+
+66: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577370; Sample name: 4627; SRA: SRS22622765
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-28"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4627"
+Accession: SAMN43577370	ID: 43577370
+
+67: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577369; Sample name: 4625; SRA: SRS22622764
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-28"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4625"
+Accession: SAMN43577369	ID: 43577369
+
+68: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577368; Sample name: 4624; SRA: SRS22622763
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-28"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4624"
+Accession: SAMN43577368	ID: 43577368
+
+69: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577367; Sample name: 4623; SRA: SRS22622759
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-28"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4623"
+Accession: SAMN43577367	ID: 43577367
+
+70: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577366; Sample name: 4622; SRA: SRS22622760
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-28"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #55"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4622"
+Accession: SAMN43577366	ID: 43577366
+
+71: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577365; Sample name: 4621; SRA: SRS22622758
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-27"
+    /geographic location="Israel: Ashkelon North Shore, Nest#18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4621"
+Accession: SAMN43577365	ID: 43577365
+
+72: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577364; Sample name: 4611; SRA: SRS22622757
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-06-12"
+    /geographic location="Israel: Yavne South dunes, Nest #11"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4611"
+Accession: SAMN43577364	ID: 43577364
+
+73: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577363; Sample name: 4562; SRA: SRS22622756
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4562"
+Accession: SAMN43577363	ID: 43577363
+
+74: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577362; Sample name: 4555; SRA: SRS22622755
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4555"
+Accession: SAMN43577362	ID: 43577362
+
+75: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577361; Sample name: 4552; SRA: SRS22622754
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4552"
+Accession: SAMN43577361	ID: 43577361
+
+76: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577360; Sample name: 4550; SRA: SRS22622753
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4550"
+Accession: SAMN43577360	ID: 43577360
+
+77: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577359; Sample name: 4549; SRA: SRS22622752
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4549"
+Accession: SAMN43577359	ID: 43577359
+
+78: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577358; Sample name: 4545; SRA: SRS22622751
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4545"
+Accession: SAMN43577358	ID: 43577358
+
+79: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577357; Sample name: 4543; SRA: SRS22622749
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4543"
+Accession: SAMN43577357	ID: 43577357
+
+80: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577356; Sample name: 4542; SRA: SRS22622748
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4542"
+Accession: SAMN43577356	ID: 43577356
+
+81: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577355; Sample name: 4541; SRA: SRS22622747
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2021-05-30"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #17"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4541"
+Accession: SAMN43577355	ID: 43577355
+
+82: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577354; Sample name: 4507; SRA: SRS22622746
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-10"
+    /geographic location="Israel: Betzet 13"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4507"
+Accession: SAMN43577354	ID: 43577354
+
+83: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577353; Sample name: 4506; SRA: SRS22622745
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-10"
+    /geographic location="Israel: Betzet , Nest #40"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4506"
+Accession: SAMN43577353	ID: 43577353
+
+84: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577352; Sample name: 4501; SRA: SRS22622744
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-29"
+    /geographic location="Israel: Betzet , Nest #40"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4501"
+Accession: SAMN43577352	ID: 43577352
+
+85: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577351; Sample name: 4424; SRA: SRS22622742
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4424"
+Accession: SAMN43577351	ID: 43577351
+
+86: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577350; Sample name: 4423; SRA: SRS22622743
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4423"
+Accession: SAMN43577350	ID: 43577350
+
+87: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577349; Sample name: 4422; SRA: SRS22622741
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4422"
+Accession: SAMN43577349	ID: 43577349
+
+88: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577348; Sample name: 4418; SRA: SRS22622740
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4418"
+Accession: SAMN43577348	ID: 43577348
+
+89: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577347; Sample name: 4417; SRA: SRS22622738
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4417"
+Accession: SAMN43577347	ID: 43577347
+
+90: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577346; Sample name: 4415; SRA: SRS22622737
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4415"
+Accession: SAMN43577346	ID: 43577346
+
+91: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577345; Sample name: 4414; SRA: SRS22622736
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4414"
+Accession: SAMN43577345	ID: 43577345
+
+92: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577344; Sample name: 4413; SRA: SRS22622735
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Netanya garbage dump, Nest #36"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4413"
+Accession: SAMN43577344	ID: 43577344
+
+93: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577343; Sample name: 4411; SRA: SRS22622734
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-15"
+    /geographic location="Israel: Zikim Beach, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4411"
+Accession: SAMN43577343	ID: 43577343
+
+94: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577342; Sample name: 4410; SRA: SRS22622733
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-15"
+    /geographic location="Israel: Zikim Beach, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4410"
+Accession: SAMN43577342	ID: 43577342
+
+95: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577341; Sample name: 4409; SRA: SRS22622732
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-15"
+    /geographic location="Israel: Zikim Beach, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4409"
+Accession: SAMN43577341	ID: 43577341
+
+96: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577340; Sample name: 4407; SRA: SRS22622731
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-15"
+    /geographic location="Israel: Zikim dunes, Nest #18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4407"
+Accession: SAMN43577340	ID: 43577340
+
+97: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577339; Sample name: 4406; SRA: SRS22622730
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-13"
+    /geographic location="Israel: Ashkelon port, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4406"
+Accession: SAMN43577339	ID: 43577339
+
+98: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577338; Sample name: 4405; SRA: SRS22622729
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-04"
+    /geographic location="Israel: Zikim dunes, Nest #13"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4405"
+Accession: SAMN43577338	ID: 43577338
+
+99: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577337; Sample name: 4404; SRA: SRS22622727
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-04"
+    /geographic location="Israel: Zikim dunes, Nest #13"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4404"
+Accession: SAMN43577337	ID: 43577337
+
+100: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577336; Sample name: 4403; SRA: SRS22622726
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-08"
+    /geographic location="Israel: Ashkelon dunes, Nest #15"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4403"
+Accession: SAMN43577336	ID: 43577336
+
+
+101: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577335; Sample name: 4402; SRA: SRS22622725
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Ashkelon dunes, Nest #19"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4402"
+Accession: SAMN43577335	ID: 43577335
+
+102: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577334; Sample name: 4399; SRA: SRS22622724
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-27"
+    /geographic location="Israel: Ashkelon dunes ,Nest #11"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4399"
+Accession: SAMN43577334	ID: 43577334
+
+103: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577333; Sample name: 4398; SRA: SRS22622723
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Ashkelon Central Shore, Nest #30"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4398"
+Accession: SAMN43577333	ID: 43577333
+
+104: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577332; Sample name: 4396; SRA: SRS22622722
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-03"
+    /geographic location="Israel: Ashkelon North Shore, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4396"
+Accession: SAMN43577332	ID: 43577332
+
+105: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577331; Sample name: 4395; SRA: SRS22622721
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-03"
+    /geographic location="Israel: Ashkelon North Shore, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4395"
+Accession: SAMN43577331	ID: 43577331
+
+106: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577330; Sample name: 4393; SRA: SRS22622719
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-03"
+    /geographic location="Israel: Ashkelon North Shore, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4393"
+Accession: SAMN43577330	ID: 43577330
+
+107: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577329; Sample name: 4392; SRA: SRS22622720
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-03"
+    /geographic location="Israel: Ashkelon North Shore, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4392"
+Accession: SAMN43577329	ID: 43577329
+
+108: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577328; Sample name: 4391; SRA: SRS22622718
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-03"
+    /geographic location="Israel: Ashkelon North Shore, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4391"
+Accession: SAMN43577328	ID: 43577328
+
+109: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577327; Sample name: 4390; SRA: SRS22622715
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-25"
+    /geographic location="Israel: South Nitzanim dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4390"
+Accession: SAMN43577327	ID: 43577327
+
+110: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577326; Sample name: 4388; SRA: SRS22622716
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-25"
+    /geographic location="Israel: South Nitzanim dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4388"
+Accession: SAMN43577326	ID: 43577326
+
+111: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577325; Sample name: 4387; SRA: SRS22622714
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-25"
+    /geographic location="Israel: South Nitzanim dunes, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4387"
+Accession: SAMN43577325	ID: 43577325
+
+112: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577324; Sample name: 4385; SRA: SRS22622713
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-07"
+    /geographic location="Israel: South Nitzanim dunes, Nest #32"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4385"
+Accession: SAMN43577324	ID: 43577324
+
+113: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577323; Sample name: 4384; SRA: SRS22622712
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-07"
+    /geographic location="Israel: South Nitzanim dunes, Nest #32"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4384"
+Accession: SAMN43577323	ID: 43577323
+
+114: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577322; Sample name: 4375; SRA: SRS22622711
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-15"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #45"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4375"
+Accession: SAMN43577322	ID: 43577322
+
+115: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577321; Sample name: 4372; SRA: SRS22622710
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-15"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #45"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4372"
+Accession: SAMN43577321	ID: 43577321
+
+116: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577320; Sample name: 4371; SRA: SRS22622709
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-15"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #45"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4371"
+Accession: SAMN43577320	ID: 43577320
+
+117: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577319; Sample name: 4329; SRA: SRS22622708
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: North Sharon Coast National Park, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4329"
+Accession: SAMN43577319	ID: 43577319
+
+118: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577318; Sample name: 4328; SRA: SRS22622707
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: North Sharon Coast National Park, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4328"
+Accession: SAMN43577318	ID: 43577318
+
+119: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577317; Sample name: 4325; SRA: SRS22622704
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-22"
+    /geographic location="Israel: Netanya, Neurim beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4325"
+Accession: SAMN43577317	ID: 43577317
+
+120: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577316; Sample name: 4322; SRA: SRS22622705
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4322"
+Accession: SAMN43577316	ID: 43577316
+
+121: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577315; Sample name: 4321; SRA: SRS22622703
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4321"
+Accession: SAMN43577315	ID: 43577315
+
+122: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577314; Sample name: 4320; SRA: SRS22622702
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4320"
+Accession: SAMN43577314	ID: 43577314
+
+123: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577313; Sample name: 4319; SRA: SRS22622701
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4319"
+Accession: SAMN43577313	ID: 43577313
+
+124: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577312; Sample name: 4318; SRA: SRS22622700
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4318"
+Accession: SAMN43577312	ID: 43577312
+
+125: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577311; Sample name: 4317; SRA: SRS22622699
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4317"
+Accession: SAMN43577311	ID: 43577311
+
+126: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577310; Sample name: 4316; SRA: SRS22622698
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4316"
+Accession: SAMN43577310	ID: 43577310
+
+127: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577309; Sample name: 4315; SRA: SRS22622697
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4315"
+Accession: SAMN43577309	ID: 43577309
+
+128: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577308; Sample name: 4313; SRA: SRS22622696
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4313"
+Accession: SAMN43577308	ID: 43577308
+
+129: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577307; Sample name: 4311; SRA: SRS22622694
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4311"
+Accession: SAMN43577307	ID: 43577307
+
+130: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577306; Sample name: 4307; SRA: SRS22622693
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4307"
+Accession: SAMN43577306	ID: 43577306
+
+131: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577305; Sample name: 4306; SRA: SRS22622692
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4306"
+Accession: SAMN43577305	ID: 43577305
+
+132: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577304; Sample name: 4305; SRA: SRS22622691
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-20"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4305"
+Accession: SAMN43577304	ID: 43577304
+
+133: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577303; Sample name: 4304; SRA: SRS22622690
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-23"
+    /geographic location="Israel: Netanya garbage dump, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4304"
+Accession: SAMN43577303	ID: 43577303
+
+134: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577302; Sample name: 4287; SRA: SRS22622689
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-12"
+    /geographic location="Israel: Atlit North beach, Nest #66"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4287"
+Accession: SAMN43577302	ID: 43577302
+
+135: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577301; Sample name: 4285; SRA: SRS22622687
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-12"
+    /geographic location="Israel: Atlit North beach, Nest #66"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4285"
+Accession: SAMN43577301	ID: 43577301
+
+136: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577300; Sample name: 4284; SRA: SRS22622688
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-12"
+    /geographic location="Israel: Atlit North beach, Nest #66"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4284"
+Accession: SAMN43577300	ID: 43577300
+
+137: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577299; Sample name: 4283; SRA: SRS22622686
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-12"
+    /geographic location="Israel: Atlit North beach, Nest #66"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4283"
+Accession: SAMN43577299	ID: 43577299
+
+138: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577298; Sample name: 4282; SRA: SRS22622685
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-12"
+    /geographic location="Israel: Atlit North beach, Nest #66"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4282"
+Accession: SAMN43577298	ID: 43577298
+
+139: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577297; Sample name: 4275; SRA: SRS22622651
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4275"
+Accession: SAMN43577297	ID: 43577297
+
+140: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577296; Sample name: 4274; SRA: SRS22622650
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4274"
+Accession: SAMN43577296	ID: 43577296
+
+141: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577295; Sample name: 4272; SRA: SRS22622649
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4272"
+Accession: SAMN43577295	ID: 43577295
+
+142: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577294; Sample name: 4270; SRA: SRS22622648
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-05"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #51"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4270"
+Accession: SAMN43577294	ID: 43577294
+
+143: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577293; Sample name: 4269; SRA: SRS22622647
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4269"
+Accession: SAMN43577293	ID: 43577293
+
+144: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577292; Sample name: 4268; SRA: SRS22622646
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4268"
+Accession: SAMN43577292	ID: 43577292
+
+145: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577291; Sample name: 4267; SRA: SRS22622645
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4267"
+Accession: SAMN43577291	ID: 43577291
+
+146: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577290; Sample name: 4266; SRA: SRS22622644
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4266"
+Accession: SAMN43577290	ID: 43577290
+
+147: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577289; Sample name: 4265; SRA: SRS22622643
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4265"
+Accession: SAMN43577289	ID: 43577289
+
+148: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577288; Sample name: 4264; SRA: SRS22622642
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4264"
+Accession: SAMN43577288	ID: 43577288
+
+149: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577287; Sample name: 4263; SRA: SRS22622640
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4263"
+Accession: SAMN43577287	ID: 43577287
+
+150: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577286; Sample name: 4262; SRA: SRS22622639
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-07-01"
+    /geographic location="Israel: Hof Galim Megadim, Nest #47"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4262"
+Accession: SAMN43577286	ID: 43577286
+
+
+151: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577285; Sample name: 4256; SRA: SRS22622638
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4256"
+Accession: SAMN43577285	ID: 43577285
+
+152: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577284; Sample name: 4254; SRA: SRS22622637
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4254"
+Accession: SAMN43577284	ID: 43577284
+
+153: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577283; Sample name: 4251; SRA: SRS22622636
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4251"
+Accession: SAMN43577283	ID: 43577283
+
+154: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577282; Sample name: 4248; SRA: SRS22622635
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4248"
+Accession: SAMN43577282	ID: 43577282
+
+155: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577281; Sample name: 4247; SRA: SRS22622634
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4247"
+Accession: SAMN43577281	ID: 43577281
+
+156: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577280; Sample name: 4246; SRA: SRS22622633
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4246"
+Accession: SAMN43577280	ID: 43577280
+
+157: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577279; Sample name: 4245; SRA: SRS22622632
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4245"
+Accession: SAMN43577279	ID: 43577279
+
+158: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577278; Sample name: 4244; SRA: SRS22622631
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-06-17"
+    /geographic location="Israel: Ceasarea, the aqueduct coast, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4244"
+Accession: SAMN43577278	ID: 43577278
+
+159: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577277; Sample name: 4241; SRA: SRS22622629
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4241"
+Accession: SAMN43577277	ID: 43577277
+
+160: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577276; Sample name: 4240; SRA: SRS22622628
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4240"
+Accession: SAMN43577276	ID: 43577276
+
+161: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577275; Sample name: 4239; SRA: SRS22622627
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4239"
+Accession: SAMN43577275	ID: 43577275
+
+162: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577274; Sample name: 4238; SRA: SRS22622626
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4238"
+Accession: SAMN43577274	ID: 43577274
+
+163: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577273; Sample name: 4237; SRA: SRS22622625
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4237"
+Accession: SAMN43577273	ID: 43577273
+
+164: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577272; Sample name: 4236; SRA: SRS22622624
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020-05-30"
+    /geographic location="Israel: Reading port, Nest #6"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4236"
+Accession: SAMN43577272	ID: 43577272
+
+165: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577271; Sample name: 4235; SRA: SRS22622623
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4235"
+Accession: SAMN43577271	ID: 43577271
+
+166: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577270; Sample name: 4231; SRA: SRS22622622
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4231"
+Accession: SAMN43577270	ID: 43577270
+
+167: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577269; Sample name: 4230; SRA: SRS22622621
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4230"
+Accession: SAMN43577269	ID: 43577269
+
+168: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577268; Sample name: 4159; SRA: SRS22622620
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4159"
+Accession: SAMN43577268	ID: 43577268
+
+169: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577267; Sample name: 4157; SRA: SRS22622884
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4157"
+Accession: SAMN43577267	ID: 43577267
+
+170: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577266; Sample name: 4156; SRA: SRS22622883
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4156"
+Accession: SAMN43577266	ID: 43577266
+
+171: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577265; Sample name: 4155; SRA: SRS22622882
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4155"
+Accession: SAMN43577265	ID: 43577265
+
+172: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577264; Sample name: 4153; SRA: SRS22622881
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4153"
+Accession: SAMN43577264	ID: 43577264
+
+173: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577263; Sample name: 4152; SRA: SRS22622880
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4152"
+Accession: SAMN43577263	ID: 43577263
+
+174: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577262; Sample name: 4151; SRA: SRS22622879
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4151"
+Accession: SAMN43577262	ID: 43577262
+
+175: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577261; Sample name: 4149; SRA: SRS22622878
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4149"
+Accession: SAMN43577261	ID: 43577261
+
+176: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577260; Sample name: 4147; SRA: SRS22622877
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4147"
+Accession: SAMN43577260	ID: 43577260
+
+177: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577259; Sample name: 4145; SRA: SRS22622876
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4145"
+Accession: SAMN43577259	ID: 43577259
+
+178: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577258; Sample name: 4144; SRA: SRS22622875
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4144"
+Accession: SAMN43577258	ID: 43577258
+
+179: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577257; Sample name: 4143; SRA: SRS22622873
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4143"
+Accession: SAMN43577257	ID: 43577257
+
+180: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577256; Sample name: 4141; SRA: SRS22622872
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4141"
+Accession: SAMN43577256	ID: 43577256
+
+181: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577255; Sample name: 4140; SRA: SRS22622871
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4140"
+Accession: SAMN43577255	ID: 43577255
+
+182: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577254; Sample name: 4139; SRA: SRS22622870
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2020"
+    /geographic location="Israel: Captive breeding, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4139"
+Accession: SAMN43577254	ID: 43577254
+
+183: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577253; Sample name: 4136; SRA: SRS22622868
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Ashkelon North Shore, Nest #26"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4136"
+Accession: SAMN43577253	ID: 43577253
+
+184: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577252; Sample name: 4135; SRA: SRS22622869
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Ashkelon North Shore, Nest #26"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4135"
+Accession: SAMN43577252	ID: 43577252
+
+185: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577251; Sample name: 4134; SRA: SRS22622867
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Gdor Nature reserve, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4134"
+Accession: SAMN43577251	ID: 43577251
+
+186: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577250; Sample name: 4132; SRA: SRS22622866
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Gdor Nature reserve, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4132"
+Accession: SAMN43577250	ID: 43577250
+
+187: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577249; Sample name: 4129; SRA: SRS22622865
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Gdor Nature reserve, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4129"
+Accession: SAMN43577249	ID: 43577249
+
+188: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577248; Sample name: 4128; SRA: SRS22622864
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Gdor Nature reserve, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4128"
+Accession: SAMN43577248	ID: 43577248
+
+189: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577247; Sample name: 4126; SRA: SRS22622862
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2019"
+    /geographic location="Israel: Gdor Nature reserve, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4126"
+Accession: SAMN43577247	ID: 43577247
+
+190: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577246; Sample name: 4086; SRA: SRS22622861
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4086"
+Accession: SAMN43577246	ID: 43577246
+
+191: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577245; Sample name: 4069; SRA: SRS22622860
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM4069"
+Accession: SAMN43577245	ID: 43577245
+
+192: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577244; Sample name: 3987; SRA: SRS22622859
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-12"
+    /geographic location="Israel: Habonim Beach Nature Reserve, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3987"
+Accession: SAMN43577244	ID: 43577244
+
+193: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577243; Sample name: 3981; SRA: SRS22622857
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-14"
+    /geographic location="Israel: Hof Galim Megadim, Nest #32"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3981"
+Accession: SAMN43577243	ID: 43577243
+
+194: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577242; Sample name: 3979; SRA: SRS22622858
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-14"
+    /geographic location="Israel: Hof Galim Megadim, Nest #32"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3979"
+Accession: SAMN43577242	ID: 43577242
+
+195: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577241; Sample name: 3970; SRA: SRS22622856
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Neve Yam Beach, Nest #8"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3970"
+Accession: SAMN43577241	ID: 43577241
+
+196: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577240; Sample name: 3963; SRA: SRS22622855
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3963"
+Accession: SAMN43577240	ID: 43577240
+
+197: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577239; Sample name: 3875; SRA: SRS22622854
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3875"
+Accession: SAMN43577239	ID: 43577239
+
+198: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577238; Sample name: 3861; SRA: SRS22622853
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-09"
+    /geographic location="Israel: South Nitzanim dunes, Nest#10"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3861"
+Accession: SAMN43577238	ID: 43577238
+
+199: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577237; Sample name: 3857; SRA: SRS22622851
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-29"
+    /geographic location="Israel: Nizanim South dunes, Nest #19"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3857"
+Accession: SAMN43577237	ID: 43577237
+
+200: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577236; Sample name: 3856; SRA: SRS22622850
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-07-03"
+    /geographic location="Israel: South Nitzanim dunes, Nest #22"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3856"
+Accession: SAMN43577236	ID: 43577236
+
+
+201: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577235; Sample name: 3855; SRA: SRS22622849
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018"
+    /geographic location="Israel: Zikim Beach"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3855"
+Accession: SAMN43577235	ID: 43577235
+
+202: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577234; Sample name: 3854; SRA: SRS22622848
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018"
+    /geographic location="Israel: Zikim Beach"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3854"
+Accession: SAMN43577234	ID: 43577234
+
+203: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577233; Sample name: 3853; SRA: SRS22622847
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018"
+    /geographic location="Israel: Zikim Beach"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3853"
+Accession: SAMN43577233	ID: 43577233
+
+204: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577232; Sample name: 3848; SRA: SRS22622846
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-25"
+    /geographic location="Israel: Zikim dunes, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3848"
+Accession: SAMN43577232	ID: 43577232
+
+205: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577231; Sample name: 3847; SRA: SRS22622845
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-25"
+    /geographic location="Israel: Zikim dunes, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3847"
+Accession: SAMN43577231	ID: 43577231
+
+206: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577230; Sample name: 3845; SRA: SRS22622812
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-25"
+    /geographic location="Israel: Zikim dunes, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3845"
+Accession: SAMN43577230	ID: 43577230
+
+207: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577229; Sample name: 3844; SRA: SRS22622811
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-25"
+    /geographic location="Israel: Zikim dunes, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3844"
+Accession: SAMN43577229	ID: 43577229
+
+208: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577228; Sample name: 3840; SRA: SRS22622810
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-25"
+    /geographic location="Israel: South Nitzanim dunes, Nest#15"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3840"
+Accession: SAMN43577228	ID: 43577228
+
+209: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577227; Sample name: 3839; SRA: SRS22622807
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-25"
+    /geographic location="Israel: South Nitzanim dunes, Nest#15"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3839"
+Accession: SAMN43577227	ID: 43577227
+
+210: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577226; Sample name: 3837; SRA: SRS22622808
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-22"
+    /geographic location="Israel: South Nitzanim dunes, Nest #14"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3837"
+Accession: SAMN43577226	ID: 43577226
+
+211: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577225; Sample name: 3836; SRA: SRS22622805
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-06-22"
+    /geographic location="Israel: South Nitzanim dunes, Nest #14"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3836"
+Accession: SAMN43577225	ID: 43577225
+
+212: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577224; Sample name: 3828; SRA: SRS22622806
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3828"
+Accession: SAMN43577224	ID: 43577224
+
+213: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577223; Sample name: 3826; SRA: SRS22622804
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3826"
+Accession: SAMN43577223	ID: 43577223
+
+214: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577222; Sample name: 3825; SRA: SRS22622803
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3825"
+Accession: SAMN43577222	ID: 43577222
+
+215: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577221; Sample name: 3823; SRA: SRS22622802
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3823"
+Accession: SAMN43577221	ID: 43577221
+
+216: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577220; Sample name: 3818; SRA: SRS22622801
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3818"
+Accession: SAMN43577220	ID: 43577220
+
+217: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577219; Sample name: 3817; SRA: SRS22622800
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-28"
+    /geographic location="Israel: Yavne beach, Nest #4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3817"
+Accession: SAMN43577219	ID: 43577219
+
+218: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577218; Sample name: 3812; SRA: SRS22622799
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2018-05-15"
+    /geographic location="Israel: Yavne beach, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3812"
+Accession: SAMN43577218	ID: 43577218
+
+219: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577217; Sample name: 3762; SRA: SRS22622798
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3762"
+Accession: SAMN43577217	ID: 43577217
+
+220: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577216; Sample name: 3447; SRA: SRS22622796
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Gdor Nature reserve, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3447"
+Accession: SAMN43577216	ID: 43577216
+
+221: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577215; Sample name: 3445; SRA: SRS22622795
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-24"
+    /geographic location="Israel: North Sharon Coast National Park, Nest #12"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3445"
+Accession: SAMN43577215	ID: 43577215
+
+222: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577214; Sample name: 3443; SRA: SRS22622794
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-24"
+    /geographic location="Israel: North Sharon Coast National Park, Nest #12"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3443"
+Accession: SAMN43577214	ID: 43577214
+
+223: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577213; Sample name: 3442; SRA: SRS22622793
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-21"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #34"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3442"
+Accession: SAMN43577213	ID: 43577213
+
+224: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577212; Sample name: 3441; SRA: SRS22622792
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-21"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #34"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3441"
+Accession: SAMN43577212	ID: 43577212
+
+225: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577211; Sample name: 3440; SRA: SRS22622791
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-21"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #34"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3440"
+Accession: SAMN43577211	ID: 43577211
+
+226: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577210; Sample name: 3436
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-21"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #34"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3436"
+Accession: SAMN43577210	ID: 43577210
+
+227: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577209; Sample name: 3428; SRA: SRS22622790
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Ashkelon, Nest #Insitu 23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3428"
+Accession: SAMN43577209	ID: 43577209
+
+228: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577208; Sample name: 3426; SRA: SRS22622789
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Gdor Nature reserve, Nest #14"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3426"
+Accession: SAMN43577208	ID: 43577208
+
+229: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577207; Sample name: 3425; SRA: SRS22622788
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Gdor Nature reserve, Nest #14"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3425"
+Accession: SAMN43577207	ID: 43577207
+
+230: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577206; Sample name: 3421; SRA: SRS22622786
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-30"
+    /geographic location="Israel: Ashkelon North Shore, Nest#9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3421"
+Accession: SAMN43577206	ID: 43577206
+
+231: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577205; Sample name: 3419; SRA: SRS22622785
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-11"
+    /geographic location="Israel: South Nitzanim dunes, Nest#4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3419"
+Accession: SAMN43577205	ID: 43577205
+
+232: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577204; Sample name: 3416; SRA: SRS22622784
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-11"
+    /geographic location="Israel: South Nitzanim dunes, Nest#4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3416"
+Accession: SAMN43577204	ID: 43577204
+
+233: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577203; Sample name: 3413; SRA: SRS22622783
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-11"
+    /geographic location="Israel: South Nitzanim dunes, Nest#4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3413"
+Accession: SAMN43577203	ID: 43577203
+
+234: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577202; Sample name: 3410; SRA: SRS22622782
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-06-11"
+    /geographic location="Israel: South Nitzanim dunes, Nest#4"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3410"
+Accession: SAMN43577202	ID: 43577202
+
+235: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577201; Sample name: 3407; SRA: SRS22622781
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Ashkelon, Nest #Insitu 18"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3407"
+Accession: SAMN43577201	ID: 43577201
+
+236: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577200; Sample name: 3405; SRA: SRS22622684
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017"
+    /geographic location="Israel: Palmahim, Nest #Insitu 10"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3405"
+Accession: SAMN43577200	ID: 43577200
+
+237: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577199; Sample name: 3399; SRA: SRS22622683
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-10"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3399"
+Accession: SAMN43577199	ID: 43577199
+
+238: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577198; Sample name: 3398; SRA: SRS22622682
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-10"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3398"
+Accession: SAMN43577198	ID: 43577198
+
+239: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577197; Sample name: 3397; SRA: SRS22622681
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-07-10"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3397"
+Accession: SAMN43577197	ID: 43577197
+
+240: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577196; Sample name: 3393; SRA: SRS22622679
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2017-05-26"
+    /geographic location="Israel: Ashkelon dunes, Nest #Insitu 9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3393"
+Accession: SAMN43577196	ID: 43577196
+
+241: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577195; Sample name: 3300; SRA: SRS22622678
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3300"
+Accession: SAMN43577195	ID: 43577195
+
+242: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577194; Sample name: 3294; SRA: SRS22622677
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-03"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #12"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3294"
+Accession: SAMN43577194	ID: 43577194
+
+243: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577193; Sample name: 3293; SRA: SRS22622668
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-03"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #12"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3293"
+Accession: SAMN43577193	ID: 43577193
+
+244: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577192; Sample name: 3288; SRA: SRS22622657
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #24"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3288"
+Accession: SAMN43577192	ID: 43577192
+
+245: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577191; Sample name: 3274; SRA: SRS22622838
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3274"
+Accession: SAMN43577191	ID: 43577191
+
+246: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577190; Sample name: 3272; SRA: SRS22622826
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3272"
+Accession: SAMN43577190	ID: 43577190
+
+247: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577189; Sample name: 3271; SRA: SRS22622816
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3271"
+Accession: SAMN43577189	ID: 43577189
+
+248: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577188; Sample name: 3270; SRA: SRS22622773
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3270"
+Accession: SAMN43577188	ID: 43577188
+
+249: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577187; Sample name: 3269; SRA: SRS22622762
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2016-06-23"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #23"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3269"
+Accession: SAMN43577187	ID: 43577187
+
+250: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577186; Sample name: 3261; SRA: SRS22622750
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3261"
+Accession: SAMN43577186	ID: 43577186
+
+
+251: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577185; Sample name: 3187; SRA: SRS22622739
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2014-06-18"
+    /geographic location="Israel: Gdor Nature reserve, Nest #11"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3187"
+Accession: SAMN43577185	ID: 43577185
+
+252: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577184; Sample name: 3181; SRA: SRS22622728
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2014-06-07"
+    /geographic location="Israel: Gdor Nature reserve, Nest #11"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3181"
+Accession: SAMN43577184	ID: 43577184
+
+253: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577183; Sample name: 3166; SRA: SRS22622717
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3166"
+Accession: SAMN43577183	ID: 43577183
+
+254: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577182; Sample name: 3165; SRA: SRS22622706
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3165"
+Accession: SAMN43577182	ID: 43577182
+
+255: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577181; Sample name: 3163; SRA: SRS22622695
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3163"
+Accession: SAMN43577181	ID: 43577181
+
+256: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577180; Sample name: 3154; SRA: SRS22622652
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #3"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3154"
+Accession: SAMN43577180	ID: 43577180
+
+257: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577179; Sample name: 3116; SRA: SRS22622641
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #2"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3116"
+Accession: SAMN43577179	ID: 43577179
+
+258: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577178; Sample name: 3114; SRA: SRS22622630
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Gdor Nature reserve, Nest #1"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3114"
+Accession: SAMN43577178	ID: 43577178
+
+259: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577177; Sample name: 3069; SRA: SRS22622619
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2013"
+    /geographic location="Israel: Netanya, Argaman beach, Nest #29"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM3069"
+Accession: SAMN43577177	ID: 43577177
+
+260: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577176; Sample name: 2980; SRA: SRS22622874
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM2980"
+Accession: SAMN43577176	ID: 43577176
+
+261: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577175; Sample name: 1655; SRA: SRS22622863
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1655"
+Accession: SAMN43577175	ID: 43577175
+
+262: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577174; Sample name: 1312; SRA: SRS22622852
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1312"
+Accession: SAMN43577174	ID: 43577174
+
+263: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577173; Sample name: 1309; SRA: SRS22622809
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1309"
+Accession: SAMN43577173	ID: 43577173
+
+264: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577172; Sample name: 1304; SRA: SRS22622797
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1304"
+Accession: SAMN43577172	ID: 43577172
+
+265: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577171; Sample name: 1303; SRA: SRS22622787
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1303"
+Accession: SAMN43577171	ID: 43577171
+
+266: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577170; Sample name: 1302; SRA: SRS22622680
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Netanya, south Argaman beach, Nest #9"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1302"
+Accession: SAMN43577170	ID: 43577170
+
+267: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577169; Sample name: 1113; SRA: SRS22622761
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Gdor Nature reserve"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1113"
+Accession: SAMN43577169	ID: 43577169
+
+268: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577168; Sample name: 1112; SRA: SRS22622618
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="Hatchling"
+    /collection date="2008"
+    /geographic location="Israel: Gdor Nature reserve"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM1112"
+Accession: SAMN43577168	ID: 43577168
+
+269: Model organism or animal sample from Chelonia mydas
+Identifiers: BioSample: SAMN43577167; Sample name: 182; SRA: SRS22622617
+Organism: Chelonia mydas
+Attributes:
+    /isolate="tissue"
+    /development stage="adult"
+    /collection date="missing"
+    /geographic location="Israel: Stranded"
+    /sex="not applicable"
+    /tissue="limb"
+    /specimen voucher="CM182"
+Accession: SAMN43577167	ID: 43577167
+
+
