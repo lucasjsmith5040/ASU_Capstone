@@ -1,0 +1,32 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --allow-extra-chr
+  --bfile /scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/merged_combined
+  --out /scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/pcaResults
+  --pca 10
+
+Hostname: sc019
+Working directory: /scratch/dbihnam/lsc585/turtleProject/scripts
+Start time: Sat Mar 29 16:39:32 2025
+
+Random number seed: 1743291572
+515558 MB RAM detected; reserving 257779 MB for main workspace.
+120750 variants loaded from .bim file.
+237 people (0 males, 0 females, 237 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/pcaResults.nosex
+.
+Using up to 4 threads (change this with --threads).
+Before main variant filters, 237 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.185322.
+120750 variants and 237 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to
+/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/pcaResults.eigenval
+and
+/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/pcaResults.eigenvec
+.
+
+End time: Sat Mar 29 16:39:35 2025

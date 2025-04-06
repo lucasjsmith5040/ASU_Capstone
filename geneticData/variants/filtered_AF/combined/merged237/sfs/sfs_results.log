@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf ../merged_combined.vcf
+	--freq
+	--out sfs_results
+
+After filtering, kept 237 out of 237 Individuals
+Outputting Frequency Statistics...
+After filtering, kept 120750 out of a possible 120750 Sites
+Run Time = 3.00 seconds
