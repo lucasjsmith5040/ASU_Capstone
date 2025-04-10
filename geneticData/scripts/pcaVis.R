@@ -1,3 +1,4 @@
+###NEED TO UPDATE 3D PCA PLOT BEFORE UPDATING GITHUB!!! MAKE SURE TO REPLACE PLOTS IN GITHUB AS WELL!!
 #Import libraries
 library(ggplot2)
 library(dplyr)
@@ -28,36 +29,59 @@ ggplot(mergedData, aes(x = PC1, y = PC2, color = BinnedLocation)) +
 #install.packages("plotly")
 library(plotly)
 
-#Set color palette
-library(RColorBrewer)
-colorPalette <- brewer.pal(min(length(unique(mergedData$BinnedLocation)), 12), "Paired")
+#Define the color palette
+colors <- c(
+  "forestgreen",  # Ashkelon
+  "red",          # Captive Breeding
+  "darkgray",     # Caesarea
+  "blue",         # Central-Northern Coast (Other)
+  "cyan",         # Gdor Nature Reserve
+  "purple",       # Habonim Beach Nature Reserve
+  "orange",       # Hof Galim Megdim
+  "chocolate",    # Nahariyya-Betzet
+  "darkred",      # Netanya
+  "hotpink",      # Nitzanim
+  "gold",         # Stranded
+  "magenta",      # Yavne
+  "limegreen"     # Zikim
+)
+
+#Ensure the colors match the order of BinnedLocation levels
+unique_locations <- levels(factor(mergedData$BinnedLocation))
+if (length(unique_locations) != length(colors)) {
+  stop("Number of unique BinnedLocation levels does not match the number of colors!")
+}
+names(colors) <- unique_locations
 
 #Plot instructions
 fig <- plot_ly(data = mergedData, 
                x = ~PC1, 
                y = ~PC2, 
                z = ~PC3, 
-               color = ~BinnedLocation,  # Color based on BinnedLocation
-               colors = colorPalette,   # Apply custom color palette
+               color = ~BinnedLocation,
+               colors = colors,
                type = 'scatter3d', 
                mode = 'markers',
-               size = 2.5)  # Adjust marker size
+               marker = list(size = 3))
 
-#Plot axis/labels
+#Plot axis/labels and adjust legend
 fig <- fig %>% layout(
-  title = paste("PCA: Genomic SNPs Identified in Eastern Mediterranean <i>Chelonia mydas</i> samples (n=237)", sep=""),
+  title = paste("PCA: Genomic SNPs Identified in Eastern Mediterranean <i>Chelonia mydas</i> samples \n(n=237, 44.33% of Variance Explained)", sep=""),
+  titlefont = list(size = 18),
   scene = list(
-    xaxis = list(title = 'PC1'),
-    yaxis = list(title = 'PC2'),
-    zaxis = list(title = 'PC3')
+    xaxis = list(title = 'PC1 - 18.45% Variance'),
+    yaxis = list(title = 'PC2 - 14.09% Variance'),
+    zaxis = list(title = 'PC3 - 11.79% Variance')
+  ),
+  legend = list(
+    title = list(text = "Sample Location", font = list(size = 18)),
+    font = list(size = 16),
+    itemsizing = "constant"
   )
 )
 
-# Show the plot
+#View plot
 fig
-
-
-
 
 
 
