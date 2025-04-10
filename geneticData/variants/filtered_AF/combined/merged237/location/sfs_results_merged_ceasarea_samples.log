@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/location/merged_ceasarea_samples.vcf.gz
+	--freq
+	--out /scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/location/sfs_results_merged_ceasarea_samples
+
+Using zlib version: 1.2.12
+After filtering, kept 11 out of 11 Individuals
+Outputting Frequency Statistics...
+After filtering, kept 45964 out of a possible 45964 Sites
+Run Time = 0.00 seconds
