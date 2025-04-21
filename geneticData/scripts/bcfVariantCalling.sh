@@ -10,6 +10,9 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script is intended to call variant SNPs and INDELs from individual BAM files
+#This will result in individual VCF files per sample
+
 #Load bcftools module
 module load bcftools-1.14-gcc-11.2.0
 

@@ -1,8 +1,12 @@
-###NEED TO UPDATE 3D PCA PLOT BEFORE UPDATING GITHUB!!! MAKE SURE TO REPLACE PLOTS IN GITHUB AS WELL!!
-#Import libraries
+##This R script is meant to plot the PCA conducted by pca.sh
+##First, a 2D PCA plot is made with PC1 and PC2
+##Second, a 3D PCA plot is made with PC1, PC2, and PC3 to show more variance
+
+#Import libraries---------------------------------------------------------------
 library(ggplot2)
 library(dplyr)
 
+#Data prep----------------------------------------------------------------------
 #Load pca
 pcaData <- read.table("/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/pca/10/pcaResults.eigenvec", header = FALSE, stringsAsFactors = FALSE)
 colnames(pcaData) <- c("FID", "IID", paste0("PC", 1:10))
@@ -17,14 +21,14 @@ metadata <- read.csv("/scratch/dbihnam/lsc585/turtleProject/sequencingMetadata.c
 #Merge PCA results with metadata
 mergedData <- merge(pcaData, metadata, by.x = "IID", by.y = "SequencingSampleID")
 
-#Plot PCA in 2D by sample location
+#Plot PCA in 2D by sample location----------------------------------------------
 ggplot(mergedData, aes(x = PC1, y = PC2, color = BinnedLocation)) + 
   geom_point(size = 2) +
   labs(title = expression("PCA: Genomic SNPs Identified in Eastern Mediterranean " * italic("Chelonia mydas ") * "samples (n=237)"), x = "PC1", y = "PC2") +
   theme_minimal() +
   scale_color_discrete(name = "Sample Location")
 
-#Plot PCA in 3D by sample location
+#Plot PCA in 3D by sample location----------------------------------------------
 #Load the plotly package
 #install.packages("plotly")
 library(plotly)

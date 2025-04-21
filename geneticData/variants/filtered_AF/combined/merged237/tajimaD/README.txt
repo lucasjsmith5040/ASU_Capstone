@@ -1,3 +1,5 @@
-This directory is being used for Tajima's D analysis. This is still a work in progress,
-and some of the files are too large to upload to GitHub. When this analysis is finalized,
-the files will be uploaded for the chosen parameters.
+Tajima's D analysis was attempted for this projeect, with a variety of sliding window sizes.
+
+However, the resulting visualizations were not very meaningful, so the analysis was abandoned.
+
+If time permits, this analysis can resume.

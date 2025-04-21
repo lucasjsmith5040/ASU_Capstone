@@ -10,23 +10,26 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
-# Load the necessary bcftools module
+#This script is intended to add allele frequency (AF) annotation to the INFO
+#column of the vcf files
+
+#Load bcftools
 module load bcftools-1.14-gcc-11.2.0
 
-# Define paths
+#Set file paths
 VCF_DIR="/scratch/dbihnam/lsc585/turtleProject/variants/unfiltered"
 OUTPUT_DIR="/scratch/dbihnam/lsc585/turtleProject/variants/unfiltered_AF"
 SAMPLES_TXT="/scratch/dbihnam/lsc585/turtleProject/rawData/Trimmed/paired/samples.txt"
 
-# Create the output directory if it doesn't exist
+#Create out directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
 
-# Get the sample name using SLURM array task ID
+#Get the sample name using SLURM array task ID
 SAMPLE=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$SAMPLES_TXT")
 
-# File paths
+#File paths
 INPUT_VCF="${VCF_DIR}/${SAMPLE}.raw.vcf"
 OUTPUT_VCF="${OUTPUT_DIR}/${SAMPLE}.raw_with_AF.vcf"
 
-# Apply the fill-tags to add AF to the INFO field
+#Use fill-tags to add AF to the INFO field
 bcftools +fill-tags "$INPUT_VCF" -o "$OUTPUT_VCF" -- -t AF

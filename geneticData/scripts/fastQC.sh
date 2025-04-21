@@ -10,6 +10,8 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script is meant to generate fastQC reports for all FASTQ files in a specified directory
+
 #Load fastqc module
 module load fastqc-0.12.1-gcc-11.2.0
 

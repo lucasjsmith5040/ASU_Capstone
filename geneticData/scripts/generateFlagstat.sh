@@ -11,6 +11,9 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script is intended to generate flagstat reports of all aligned BAM files
+#in a provided directory
+#Flagstat reports give alignment quality metrics
 
 #Load Samtools module
 module load samtools-1.16-gcc-11.2.0

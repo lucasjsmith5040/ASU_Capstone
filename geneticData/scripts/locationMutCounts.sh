@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Results from this script were not used in the final paper
+#Sample size and average number of mutations per sample were plotted
+#on a map of the region with ArcGIS, but the map was left out of the final paper
+
 #Navigate to directory
 cd /scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/location
 
@@ -12,7 +16,7 @@ output_file="sampleLocationMutCounts.tsv"
 #Write output header
 echo -e "Region\tAverage_Variants_Per_Sample\tNum_Samples" > "$output_file"
 
-#Loop through all vcfs
+#Loop through all vcfs and get mutation count statistics
 for vcf in "${vcf_files[@]}"; do
   region=$(basename "$vcf" | sed 's/\.[^.]*$//')
   num_samples=$(bcftools query -l "$vcf" | wc -l)

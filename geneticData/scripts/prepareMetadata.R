@@ -1,4 +1,4 @@
-#This script is meant to parse all the sequencing metadata into a usable format
+#This script is meant to parse all the NCBI sequencing metadata into a usable format
 
 #Load libraries
 library(dplyr)

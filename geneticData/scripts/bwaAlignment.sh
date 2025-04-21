@@ -10,6 +10,8 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script handles the alignment of trimmed FASTQ files to a reference genome
+
 #Load BWA alignment tool
 module load bwa-0.7.17-gcc-12.1.0
 

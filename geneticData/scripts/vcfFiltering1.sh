@@ -10,6 +10,11 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script was used for filtering the resulting VCF file from the previous
+#variant calling step
+#This was the first VCF filtering script used, but a more stringent one 'vcfFiltering2.sh'
+#was used for all final analyses
+
 #Load the bcftools module
 module load bcftools-1.14-gcc-11.2.0
 
@@ -26,5 +31,8 @@ INPUT_VCF="${VCF_DIR}/${SAMPLE}.raw.vcf"
 OUTPUT_VCF="${FILTERED_DIR}/${SAMPLE}.filtered.vcf"
 
 # Apply filters
+#phred QUAL > 30 (99.9% confidence)
+#sequencing depth > 10 reads
+#missing genotypes < 10%
 bcftools filter -i 'QUAL > 30 && DP > 10 && F_MISSING < 0.1' \
   -o "$OUTPUT_VCF" "$INPUT_VCF"

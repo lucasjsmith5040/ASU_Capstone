@@ -10,6 +10,9 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+#This script is intended to trim raw FASTQ reads, removing adapters and low quality
+#sequences to prepare for downstream genomic alignment
+
 #Load in Trimmomatic module
 module load trimmomatic-0.39-gcc-12.1.0
 
@@ -24,6 +27,11 @@ samples=($(ls *_1.fastq.gz | sed 's/_1.fastq.gz//'))
 sample=${samples[$SLURM_ARRAY_TASK_ID-1]}
 
 #Run Trimmomatic
+#Remove Illumina adapters using TruSeq3-PE.fa with max 2 mismatches, palindrome threshold 30, simple clip threshold 10
+#Trim low-quality bases from the start of reads (below Q3)
+#Trim low-quality bases from the end of reads (below Q3)
+#Trim when average quality in a 4-base sliding window falls below Q20
+#Discard reads shorter than 50 bases after trimming
 trimmomatic PE -threads 4 \
   ${sample}_1.fastq.gz ${sample}_2.fastq.gz \
   Trimmed/${sample}_1_paired.fastq.gz Trimmed/${sample}_1_unpaired.fastq.gz \

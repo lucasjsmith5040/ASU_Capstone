@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#This script is used to extract a user-specified number of principal components (PCs)
+#from a merged vcf file
+
 #Check if the correct number of arguments is provided
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <Number_of_PCs>"

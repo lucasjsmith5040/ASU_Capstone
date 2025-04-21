@@ -1,6 +1,10 @@
-#Load ggplot2
+#This script is intended to plot the site frequency spectrum data generated
+#by running sfs.sh/sfsLocation.sh in regular and log-transformed form
+
+#Load libraries-----------------------------------------------------------------
 library(ggplot2)
 
+#Data wrangling-----------------------------------------------------------------
 #Load the frequency data
 freqData <- read.table("/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/sfs/sfs_preprocessed.frq", header = TRUE, comment.char = "")
 
@@ -11,7 +15,6 @@ freqData$NUM_ALT <- round(freqData$FREQ. * freqData$N_CHR)
 freqData$MINOR_COUNT <- pmin(freqData$NUM_ALT, freqData$N_CHR - freqData$NUM_ALT)
 
 #Create the SFS by counting the number of SNPs for each minor allele count
-#We use factor() to ensure all possible counts (0 to max) are included, even if they have 0 SNPs
 maxCount <- max(freqData$MINOR_COUNT, na.rm = TRUE)
 sfs <- table(factor(freqData$MINOR_COUNT, levels = 0:maxCount))
 
@@ -21,10 +24,11 @@ sfsDf <- data.frame(
   Frequency = as.numeric(sfs)
 )
 
-#Remove the k=0 bin (monomorphic sites, if any)
+#Remove the k=0 bin (if any monomorphic sites are in the dataset)
 sfsDf <- sfsDf[sfsDf$Allele_Count > 0, ]
 
-#Plot SFS
+#Plotting-----------------------------------------------------------------------
+#Plot regular SFS
 ggplot(sfsDf, aes(x = Allele_Count, y = Frequency)) +
   geom_bar(stat = "identity", fill = "#01796F", color = "white", size = 0.2) +
   theme_minimal() +

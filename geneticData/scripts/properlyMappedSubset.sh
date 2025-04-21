@@ -1,13 +1,17 @@
 #!/bin/bash
 
-# Define the input file and threshold
+#This script is intended to parse the flagstat reports of each sample, and generate
+#a new list of samples that have a properly mapped reads percentage >70%
+#This yielded a list of 237 samples, down from 268
+
+#Define the input file and threshold
 INPUT_FILE="/scratch/dbihnam/lsc585/turtleProject/alignedBam/flagstatReports/flagstat_summary.csv"
 THRESHOLD=70
 
-# Output file with valid samples
+#Output file with valid samples
 VALID_SAMPLES_FILE="valid_samples.txt"
 
-# Process the CSV file and calculate the percentage of properly paired reads
+#Process the CSV file and calculate the percentage of properly paired reads
 awk -F ',' 'NR > 1 { 
     properly_paired_reads = $3 
     total_reads = $2 

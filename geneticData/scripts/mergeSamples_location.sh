@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#This script is intended to merge the vcfs from a user-specified subsetted list
+#based on the sample source location
+#Used for site-specific SFS
+
 #Check if the sample file argument is provided
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <sample_file.txt>"

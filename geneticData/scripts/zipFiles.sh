@@ -10,6 +10,8 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=32G
 
+#This script is intended to zip FASTQ or VCF files in a user-specified directory
+
 #Load pigz
 module load pigz-2.6-gcc-11.2.0
 
@@ -31,7 +33,7 @@ cd "$DIR" || exit 1
 
 #Zip files checking for ext type
 if [ "$EXT" == "vcf" ]; then
-  #Fix my mistake of zipping the vcfs with pigz first lol
+  #Fix my mistake of zipping the vcfs with pigz first (oops)
   for file in *.$EXT.gz; do
       if [ -f "$file" ]; then
         pigz -d "$file"

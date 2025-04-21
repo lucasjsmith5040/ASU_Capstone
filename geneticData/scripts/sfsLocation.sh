@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#This script is intended to calculate the site frequency spectrum (SFS) for 
+#site-specific merged VCF files
+
 #Load vcftools
 module load vcftools-0.1.14-gcc-11.2.0
 

@@ -10,6 +10,10 @@
 #SBATCH --mail-user=dbihnam@asu.edu
 #SBATCH --mail-type=ALL
 
+##This script was tried for aligning with an assumption of a high GC content in the samples
+##Did not help in rescuing samples with <70% properly mapped reads
+##Generated bams not used in the downstream analysis
+
 #Load BWA alignment tool
 module load bwa-0.7.17-gcc-12.1.0
 
