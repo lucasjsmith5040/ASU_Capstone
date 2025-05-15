@@ -7,4 +7,4 @@ We investigated how environmental pressures surch as climate change and pollutio
 Ecological Data/ contains the scripts used for processing environmental datasets
 geneticData/ contains the scripts and data used in the genetic analysis
 
-[Read the full paper]()
+[Read the full paper](./docs/group1_finalReport.pdf)
