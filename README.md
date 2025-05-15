@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview 🐢
 This repository contains code and data used in our project:
 Genetic Consequences of Anthropogenic Pressures on Green Sea Turtles (*Chelonia mydas*) in the Eastern Mediterranean Sea, completde for our Biological Data Science Master's Capstone project at Arizona State University
 
