@@ -7,7 +7,7 @@
 #SBATCH --mem=16G
 #SBATCH --partition=general
 #SBATCH --array=1-268
-#SBATCH --mail-user=dbihnam@asu.edu
+#SBATCH --mail-user=your@email.com
 #SBATCH --mail-type=ALL
 
 ## This script is intended to add allele frequency (AF) annotation to the INFO
@@ -17,9 +17,9 @@
 module load bcftools-1.14-gcc-11.2.0
 
 # Set file paths
-VCF_DIR="/scratch/dbihnam/lsc585/turtleProject/variants/unfiltered"
-OUTPUT_DIR="/scratch/dbihnam/lsc585/turtleProject/variants/unfiltered_AF"
-SAMPLES_TXT="/scratch/dbihnam/lsc585/turtleProject/rawData/Trimmed/paired/samples.txt"
+VCF_DIR="/geneticData/variants/unfiltered"
+OUTPUT_DIR="/geneticData/variants/unfiltered_AF"
+SAMPLES_TXT="/geneticData/rawData/Trimmed/paired/samples.txt"
 
 # Create out directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"

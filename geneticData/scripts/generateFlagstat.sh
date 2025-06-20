@@ -8,22 +8,22 @@
 #SBATCH --mem=4G
 #SBATCH --partition=general
 #SBATCH --array=1-268
-#SBATCH --mail-user=dbihnam@asu.edu
+#SBATCH --mail-user=your@email.edu
 #SBATCH --mail-type=ALL
 
-#This script is intended to generate flagstat reports of all aligned BAM files
-#in a provided directory
-#Flagstat reports give alignment quality metrics
+## This script is intended to generate flagstat reports of all aligned BAM files
+## in a provided directory
+## Flagstat reports give alignment quality metrics
 
-#Load Samtools module
+# Load Samtools module
 module load samtools-1.16-gcc-11.2.0
 
-#Navigate to BAM directory
-cd /scratch/dbihnam/lsc585/turtleProject/alignedBam/GC_test
+# Navigate to BAM directory
+cd /geneticData/alignedBam/GC_test
 
-#Get sample names
+# Get sample names
 samples=($(ls *.bam | grep -v '.bam.bai' | sed 's/.bam//'))
 sample=${samples[$SLURM_ARRAY_TASK_ID-1]}
 
-#Generate flagstat report
+# Generate flagstat report
 samtools flagstat ${sample}.bam > flagstatReports/${sample}_flagstat.txt

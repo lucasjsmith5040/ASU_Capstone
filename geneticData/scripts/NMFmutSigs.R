@@ -11,7 +11,7 @@ library(tidyverse)
 
 ## Data wrangling --------------------------------------------------------------
 # Navigate to working directory so I don't have to type full paths over and over
-setwd("/scratch/dbihnam/lsc585/turtleProject/variants/filtered_AF/combined/merged237/mutationalSignatures/")
+setwd("/geneticData/variants/filtered_AF/combined/merged237/mutationalSignatures/")
 
 # .csv file names
 regionFiles <- list(
