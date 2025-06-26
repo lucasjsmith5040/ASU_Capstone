@@ -17,8 +17,8 @@ We investigated how environmental pressures surch as climate change and pollutio
 - Data summarization and visualization
 
 ## Languages
-- `bash`
 - `R`
+- `bash`
 - `Python`
 ---
 Ecological Data/ contains the scripts used for processing environmental datasets.  
